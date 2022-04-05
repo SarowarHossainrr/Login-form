@@ -1,0 +1,21 @@
+h1{
+    color: rgb(151, 20, 20);
+    background-color: darkgrey;
+
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+input{
+    color: brown;
+    border-radius: 5px;
+    border-color: rgb(37, 190, 132);
+background-color: lightblue;
+}
+fieldset{
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 10px;
+}
+form{
+    text-align: center;
+}
